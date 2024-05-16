@@ -4,9 +4,9 @@ http://45.153.35.210:8000/play/FR_france_2_HD/index.m3u8
 #EXTINF:-1,France 3 (3) ==> FOUND ON SEARCHTV.NET
 http://45.153.35.210:8000/play/FR_france_3_HD/index.m3u8
 #EXTINF:-1,France 4 (4) ==> FOUND ON SEARCHTV.NET
-http://45.153.35.210:8000/play/FR_france_4_HD/index.m3u8
+http://176.65.146.100:8047/play/a074/index.m3u8
 #EXTINF:-1,France 5 (5) ==> FOUND ON SEARCHTV.NET
-http://45.153.35.210:8000/play/FR_france_5_HD/index.m3u8
+http://83.76.209.121:11000/play/France5HDxx
 #EXTINF:-1,TF1 (1) ==> FOUND ON SEARCHTV.NET
 http://45.153.35.210:8000/play/FR_tf1_HD/index.m3u8
 #EXTINF:-1,ITV1 HD (1) ==> FOUND ON SEARCHTV.NET
@@ -72,9 +72,9 @@ http://176.65.146.100:8047/play/a073/index.m3u8
 #EXTINF:-1,FRANCE 3 HD
 http://176.65.146.100:8047/play/a076/index.m3u8
 #EXTINF:-1,FRANCE 4 HD
-http://83.76.209.121:11000/play/cvFrance4mn
+http://176.65.146.100:8047/play/a074/index.m3u8
 #EXTINF:-1,FRANCE 5 HD
-http://83.76.209.121:11000/play/France5HDxx
+http://176.65.146.138:8047/play/a07l/index.m3u8
 #EXTINF:-1,RSI LA 1 HD
 http://83.76.209.121:11000/play/xxRSILA1xx
 #EXTINF:-1,TBS HD
