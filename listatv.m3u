@@ -9,6 +9,10 @@ http://176.65.146.100:8047/play/a074/index.m3u8
 http://83.76.209.121:11000/play/France5HDxx
 #EXTINF:-1,TF1 (1) ==> FOUND ON SEARCHTV.NET
 http://45.153.35.210:8000/play/FR_tf1_HD/index.m3u8
+#EXTINF:-1,BBC ONE HD (1) ==> FOUND ON SEARCHTV.NET
+http://45.11.190.178:8000/play/002/index.m3u8
+#EXTINF:-1,BBC Two (1) ==> FOUND ON SEARCHTV.NET
+http://185.133.36.238:8080/play/3732/index.m3u8
 #EXTINF:-1,ITV1 HD (1) ==> FOUND ON SEARCHTV.NET
 http://45.153.35.210:8000/play/UK_itv_1_HD/index.m3u8
 #EXTINF:-1 tvg-name="Neox" tvg-id="Neox" group-title="Espanha" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200",Neoxᴴᴰ 🇪🇸
@@ -59,6 +63,8 @@ http://83.76.209.121:11000/play/xxBBCTwoHDxx
 http://83.76.209.121:11000/play/xxBBC3xx
 #EXTINF:-1,BBC 4 HD
 http://83.76.209.121:11000/play/xxBBCfouryy
+#EXTINF:-1,BBC Earth HD (1) ==> FOUND ON SEARCHTV.NET
+http://185.236.229.62:9981/play/a02o
 #EXTINF:-1,BBC NEWS HD
 http://176.65.146.170:8012/play/a06i/index.m3u8
 #EXTINF:-1,CHANNEL 4
@@ -75,6 +81,10 @@ http://176.65.146.100:8047/play/a076/index.m3u8
 http://176.65.146.100:8047/play/a074/index.m3u8
 #EXTINF:-1,FRANCE 5 HD
 http://176.65.146.138:8047/play/a07l/index.m3u8
+#EXTINF:-1,M6 HD (6) ==> FOUND ON SEARCHTV.NET
+http://45.90.106.7:9790/play/EcW4192K8@T6V
+#EXTINF:-1,TF1 HD (1) ==> FOUND ON SEARCHTV.NET
+http://45.90.106.7:8780/play/WkY8429P5@U5M/index.m3u8
 #EXTINF:-1,RSI LA 1 HD
 http://83.76.209.121:11000/play/xxRSILA1xx
 #EXTINF:-1,TBS HD
