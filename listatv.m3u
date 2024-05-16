@@ -87,6 +87,8 @@ http://176.65.146.138:8047/play/a07l/index.m3u8
 http://45.90.106.7:9790/play/EcW4192K8@T6V
 #EXTINF:-1,TF1 HD (1) ==> FOUND ON SEARCHTV.NET
 http://45.90.106.7:8780/play/WkY8429P5@U5M/index.m3u8
+#EXTINF:-1,Telefe HD (1) ==> FOUND ON SEARCHTV.NET
+http://190.7.19.205:8088/play/a0n0/index.m3u8
 #EXTINF:-1,RSI LA 1 HD
 http://83.76.209.121:11000/play/xxRSILA1xx
 #EXTINF:-1,TBS HD
