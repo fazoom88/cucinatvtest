@@ -105,6 +105,8 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:2_HD.smil/index.m3u8
 #EXTINF:-1,TVE CLAN HD ESP
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/index.m3u8
+#EXTINF:-1,ANTENA TRES 480p
+http://200.59.188.3:8000/play/a0f3
 #EXTINF:-1,CUATRO HD ESP
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
 #EXTINF:-1,BE MAD HD ESP
