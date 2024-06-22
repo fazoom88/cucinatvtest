@@ -109,6 +109,11 @@ http://190.7.19.205:8088/play/a0n0/index.m3u8
 http://83.76.209.121:11000/play/xxRSILA1xx
 #EXTINF:-1,TBS HD
 http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1,La 1 HD (1) ==> FOUND ON SEARCHTV.NET
+http://45.153.96.44:8000/play/a01n
+#EXTINF:-1,La 2 HD (2) ==> FOUND ON SEARCHTV.NET
+http://45.153.96.44:8000/play/a01j
+
 #EXTINF:-1,TVE LA 1 HD ESP
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1,TVE LA 2 HD ESP
@@ -118,15 +123,15 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/index.
 #EXTINF:-1,ANTENA TRES 480p
 http://200.59.188.3:8000/play/a0f3
 #EXTINF:-1,CUATRO HD ESP
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
+http://45.153.96.44:8000/play/a01b
 #EXTINF:-1,BE MAD HD ESP
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/index.m3u8
 #EXTINF:-1,DIVINITY HD ESP
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/index.m3u8
 #EXTINF:-1,ENERGY HD ESP
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/index.m3u8
+http://45.153.96.44:8000/play/a00x
 #EXTINF:-1,DMAX HD ESP
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/index.m3u8
+http://45.153.96.44:8000/play/a00t
 #EXTINF:-1,LASEXTA HD ESP
 http://45.153.96.44:8000/play/a01d
 #EXTINF:-1,mega HD
