@@ -16,7 +16,7 @@ http://45.153.35.210:8000/play/FR_france_3_HD/index.m3u8
 #EXTINF:-1,France 4 (4) ==> FOUND ON SEARCHTV.NET
 http://176.65.146.100:8047/play/a074/index.m3u8
 #EXTINF:-1,France 5 (5) ==> FOUND ON SEARCHTV.NET
-http://83.76.209.121:11000/play/France5HDxx
+http://178.199.20.188:5555/play/a04t/index.m3u8
 #EXTINF:-1,TF1 (1) ==> FOUND ON SEARCHTV.NET
 http://45.153.35.210:8000/play/FR_tf1_HD/index.m3u8
 #EXTINF:-1,BBC ONE HD (1) ==> FOUND ON SEARCHTV.NET
@@ -36,9 +36,11 @@ http://iptv.prosto.tv:7000/ch206/video.m3u8
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="" group-title="England" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/BBC_One_logo_2021.svg",BBC 1 🇬🇧
 http://45.153.35.210:8000/play/UK_bbc_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="BBCTwoHD.uk" tvg-name="" group-title="England" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/BBC_Two_logo_2021.svg",BBC 2 🇬🇧
-http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MABA3261818232618182&ct=19254&tsum=3aebf2128ba27b23c78bfd4160c63750
+http://45.153.96.44:8000/play/a01q
+#EXTINF:-1 tvg-id="BBCTwoHD.uk" tvg-name="" group-title="England" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/BBC_Two_logo_2021.svg",BBC 2 🇬🇧
+http://45.11.190.178:8000/play/002/index.m3u8
 #EXTINF:-1 tvg-id="BBCFourHD.uk" group-title="England" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/BBC_Four_logo_2021.svg",BBC 4 🇬🇧
-http://45.153.35.210:8000/play/UK_cbeebies_HD/index.m3u8
+http://45.153.96.44:8000/play/a01s
 #EXTINF:-1 tvg-id="ITV1HD.uk" tvg-name="" group-title="England" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/225px-ITV1_logo_%282022%29.svg.png",ITV1 🇬🇧
 http://213.7.193.54:4000/play/itv1/index.m3u8
 #EXTINF:-1 tvg-id="ITV1HD.uk" tvg-name="" group-title="England" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/225px-ITV1_logo_%282022%29.svg.png",ITV1 🇬🇧
@@ -60,9 +62,9 @@ http://124.29.225.205:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="England" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/BBC_Brit.svg",BBC Brit 🇬🇧🇵🇱
 http://178.219.128.68:64889/BBCBRITHD
 #EXTINF:-1,ITV 1 HD
-http://83.76.209.121:11000/play/xxITVHDyy
+http://45.11.190.186:8000/play/003/index.m3u8
 #EXTINF:-1,ITV 2 HD
-http://83.76.209.121:11000/play/xxITV2xx
+http://45.11.190.178:8000/play/a003/index.m3u8
 #EXTINF:-1,ITV 3 HD
 http://83.76.209.121:11000/play/xxITV3uu
 #EXTINF:-1,ITV 4 HD
@@ -74,7 +76,7 @@ http://83.76.209.121:11000/play/xxBBCTwoHDxx
 #EXTINF:-1,BBC 3 HD
 http://83.76.209.121:11000/play/xxBBC3xx
 #EXTINF:-1,BBC 4 HD
-http://83.76.209.121:11000/play/xxBBCfouryy
+http://45.153.96.44:8000/play/a01s
 #EXTINF:-1,BBC Earth HD (1) ==> FOUND ON SEARCHTV.NET
 http://185.236.229.62:9981/play/a02o
 #EXTINF:-1,BBC NEWS HD
@@ -92,7 +94,7 @@ http://176.65.146.100:8047/play/a076/index.m3u8
 #EXTINF:-1,FRANCE 4 HD
 http://176.65.146.100:8047/play/a074/index.m3u8
 #EXTINF:-1,FRANCE 5 HD
-http://176.65.146.138:8047/play/a07l/index.m3u8
+http://178.199.20.188:5555/play/a04t/index.m3u8
 #EXTINF:-1,M6 HD (6) ==> FOUND ON SEARCHTV.NET
 http://45.90.106.7:9790/play/EcW4192K8@T6V
 #EXTINF:-1,TF1 HD (1) ==> FOUND ON SEARCHTV.NET
@@ -122,7 +124,19 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/index
 #EXTINF:-1,DMAX HD ESP
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/index.m3u8
 #EXTINF:-1,LASEXTA HD ESP
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/index.m3u8
+http://45.153.96.44:8000/play/a01d
+#EXTINF:-1,mega HD
+http://45.153.96.44:8000/play/a00v
+#EXTINF:-1,neox HD (1) ==> FOUND ON SEARCHTV.NET
+http://45.153.96.44:8000/play/a01e
+#EXTINF:-1,BeMad tv HD (1) ==> FOUND ON SEARCHTV.NET
+http://45.153.96.44:8000/play/a010
+#EXTINF:-1,antena3 HD (3) ==> FOUND ON SEARCHTV.NET
+http://45.153.96.44:8000/play/a01c
+#EXTINF:-1,Telecinco HD (1) ==> FOUND ON SEARCHTV.NET
+http://45.153.96.44:8000/play/a01a
+
+
 #EXTINF:-4, La 1
 
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:1_HD.smil/manifest.m3u8
