@@ -5,6 +5,8 @@ http://fl2.moveonjoy.com/FX/index.m3u8
 http://fl2.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1,NBC 5 CHICAGO (EAST)
 http://143.244.60.30/NBC_EAST/index.m3u8
+#EXTINF:-1,NBC 5 CHICAGO (EAST)
+http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1,ABC BOSTON (EAST)
 http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTINF:-1,FOX EAST
